@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "インナーワールド - Rearrange 2023 -",
+  "base_artist": "サカナクション",
+  "createdAt": "2026-01-11T14:12:22.019661Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "インナーワールド",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/01_インナーワールド_sakanaction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "インナーワールド",
+      "artist": "サカナクション",
+      "has_synced": true,
+      "path": "select/02_インナーワールド_サカナクション.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Inner World [インナーワールド]",
+      "artist": "sakanaction",
+      "has_synced": true,
+      "path": "select/03_Inner_World_[インナーワールド]_sakanaction.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "インナーワールド",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_インナーワールド_サカナクション.txt"
+    }
+  ]
+}
